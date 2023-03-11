@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/2_1_1_release:
+    type:             git
+    url:              https://github.com/andry81-3dparty/qcustomplot
+    version:          2_1_1_release
+    fetch-to-branch:  2_1_1_release
